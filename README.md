@@ -1,2 +1,2 @@
-# learn
-Начало моего изучения
+# My first repository.
+The start of my learning.
